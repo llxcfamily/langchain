@@ -1,0 +1,4 @@
+langchain
+elasticsearch
+llama-cpp-python
+docx2txt
